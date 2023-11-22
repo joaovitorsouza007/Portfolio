@@ -31,7 +31,7 @@ body{
     display: flex;
 }
 
-.btn-contato button{
+.btn-contato, .btn-contato1 button{
     padding: 10px 40px;
     font-size: 18px;
     font-weight: 600;
