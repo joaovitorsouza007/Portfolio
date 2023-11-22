@@ -357,7 +357,7 @@ section.sobre .flex{
     background-color: rgb(158, 245, 158);
 }
 
-@media screen and (max-width: 720px){
+@media screen and (max-width: 769px){
     .menu-desktop{
         display: none;
     }
