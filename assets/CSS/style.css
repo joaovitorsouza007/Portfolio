@@ -401,7 +401,7 @@ section.sobre .flex{
 .menu-mobile{
     display: flex;
     background: #920000;
-    height: 120vh;
+    height: 150vh;
     position: fixed;
     top: 0;
     right: 0;
