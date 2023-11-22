@@ -31,7 +31,7 @@ body{
     display: flex;
 }
 
-.btn-contato, .btn-contato1 button{
+.btn-contato button{
     padding: 10px 40px;
     font-size: 18px;
     font-weight: 600;
@@ -362,8 +362,12 @@ section.sobre .flex{
         display: none;
     }
 
-    .btn-contato{
+    #btn{
         display: none;
+    }
+
+    .topo-do-site .img-topo-site img{
+        padding-top:3%;
     }
 
     .bi{
